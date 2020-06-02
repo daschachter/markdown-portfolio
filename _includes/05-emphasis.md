@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I enjoy programming in _C_, _C++_, and _Python_. I like listening to **music**.
